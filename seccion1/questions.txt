@@ -1,0 +1,13 @@
+Serie de preguntas - Prueba de Evaluación de Habilidades para Desarrolladores
+
+¿Cuál es el propósito de package.json en un proyecto de Node.js? 
+b) Administra las dependencias y la configuración del proyecto. 
+
+En React, ¿cuál es el papel del "useState" hook? 
+b) Gestionar y actualizar el estado dentro de componentes funcionales. 
+
+¿Cuál de las siguientes consultas SQL recupera todos los registros de una tabla llamada "Clientes"?
+a) SELECT * FROM Customers; 
+
+¿Cuál es el propósito del framework Express.js en aplicaciones de Node.js? 
+b) Maneja el enrutamiento, middleware y las solicitudes HTTP en el backend.
